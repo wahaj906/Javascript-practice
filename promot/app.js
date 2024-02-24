@@ -19,5 +19,5 @@ console.log("Division : " + divide);
 
 
 let wahaj;  //undefined
-shahwaiz = 50;
+wahaj= 50;
 console.log(wahaj);
